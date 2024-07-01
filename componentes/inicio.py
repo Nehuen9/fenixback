@@ -1,3 +1,3 @@
 
 
-#calidador de password, y lo llamo desde app.py.
+#validador de password, y lo llamo desde app.py.
